@@ -1,0 +1,1 @@
+It is a fork of https://github.com/alterway/docker-keepalived - I use it to build a keepalived Docker image for RPi hardware
